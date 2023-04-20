@@ -1,7 +1,18 @@
-import os,time,platform
-bit = platform.architecture()[0]
-if bit=='64bit':
-    import RN
+#<\>!python3.11
+#-------------------Dont Edit This Script-----------------#
+import os,platform,time
+ 
+bitt=platform.architecture()[0]
+ 
+if bitt=="64bit":
+    os.system('clear');print('[!] Your Device is 64 bit');time.sleep(1);print('\n\n[!] Your Python Version :');time.sleep(1);os.system('python --version')
+    time.sleep(2)
+    import RN.mahadi
 else:
-    print('\033[1;31m[×] Sorry your Device 32 bit Not Support')
+    print('\nYOUR DEVICE 32 BIT NOT SUPPORT')
+ 
+#---------------------------------------------------------#
+#                    THIS TOOL OWNED BY
+#                  • MAHADI HASAN AFRIDI •
+#---------------------------------------------------------#
  
