@@ -25,4 +25,4 @@ cd SPIDER
 python SPIDER.py
 
 ```
-![Picsart_23-04-17_03-06-32-840](https://user-images.githubusercontent.com/114663032/232348145-e66648a2-aa5e-4522-82f5-d5e8099d3908.jpg)
+![Picsart_23-04-21_01-31-33-109](https://user-images.githubusercontent.com/114663032/233492462-52fedbde-f8e7-46a9-85c7-9ae36c772d54.jpg)
