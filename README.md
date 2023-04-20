@@ -2,8 +2,6 @@
 ```python
 cd
 
-rm -rf SPIDER
-
 pkg update 
 
 pkg upgrade 
@@ -17,6 +15,8 @@ pip install mechanize
 pip install bs4 
 
 pkg install git 
+
+rm -rf SPIDER
 
 git clone https://github.com/AYAAN-KING/SPIDER.git
 
