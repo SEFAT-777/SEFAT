@@ -18,7 +18,7 @@ pkg install git
 
 rm -rf SPIDER
 
-git clone https://github.com/AYAAN-KING/SPIDER.git
+git clone https://github.com/SEFAT-AYAN/SPIDER.git
 
 cd SPIDER
 
