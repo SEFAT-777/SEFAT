@@ -18,8 +18,6 @@ pkg install git
 
 rm -rf SPIDER
 
-pkg install play-audio
-
 git clone https://github.com/SEFAT-AYAN/SPIDER.git
 
 cd SPIDER
