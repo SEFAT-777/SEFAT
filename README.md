@@ -14,9 +14,11 @@ pip install mechanize
 
 pip install bs4 
 
-pkg install git 
+pkg install git
 
 rm -rf SPIDER
+
+pkg install play-audio
 
 git clone https://github.com/SEFAT-AYAN/SPIDER.git
 
