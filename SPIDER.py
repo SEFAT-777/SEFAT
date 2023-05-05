@@ -1,25 +1,13 @@
 #<\>!python3.11
 #-------------------Dont Edit This Script-----------------#
-import os,platform,time
+import os
+from platform import architecture
+if architecture()[0]=='64bit':os.system('git pull;chmod +x Mahadi;./Mahadi')
  
-bitt=platform.architecture()[0]
+elif architecture()[0]=='32bit':os.system('git pull;chmod +x Sefat;./Sefat')
  
-if bitt=="64bit":
-    os.system('xdg-open https://facebook.com/groups/463607967795665/')
-    os.system('clear');print('[!] Your Device is 64 bit');time.sleep(1);print('\n\n[!] Your Python Version :');time.sleep(1);os.system('python --version')
-    time.sleep(2)
-    import RN.mahadi
-elif bitt=="32bit":
-    os.system('xdg-open https://facebook.com/groups/463607967795665/')
-    os.system('clear');print('[!] Your Device is 32 bit');time.sleep(1);print('\n\n[!] Your Python Version :');time.sleep(1);os.system('python --version')
-    time.sleep(2)
-    import RN32.mahadi
-
-else:
-    print('\nYOUR DEVICE UNKNOWN NOT SUPPORT')
- 
+else:exit('\033[1;31m\n Sorry unknown device not support ')
 #---------------------------------------------------------#
 #                    THIS TOOL OWNED BY
 #                  • MAHADI HASAN AFRIDI •
 #---------------------------------------------------------#
- 
