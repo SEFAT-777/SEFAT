@@ -12,7 +12,7 @@ pip install requests
 
 pip install mechanize 
 
-pip install bs4 
+pip install beautifulsoup4
 
 pkg install git
 
