@@ -30,3 +30,4 @@ python3 SPIDER.py
 ![1684835796620](https://github.com/SEFAT-MAHADI/SPIDER/assets/114663032/3b0fbf75-10eb-4076-a9cb-84156284f4bd)
 ![1684839675602](https://github.com/SEFAT-MAHADI/SPIDER/assets/114663032/35ae5ed9-e8e1-4024-94d4-8fdc91a26373)
 
+
