@@ -194,6 +194,7 @@ Redmi 5A
 Acer Iconia Tab A1-811
 MI 8 Lite
 Mi A1
+5AF4E9ADC52F28C7A712756FC319D526
 Redmi Note 7S
 Redmi Note 8pro
 Mi Note 10 Lite
