@@ -1,2 +1,2 @@
-import sefat
-sefat.__main__()
+import Sefat
+Sefat.main()
