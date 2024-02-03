@@ -1,2 +1,1 @@
 import Sefat
-Sefat.main()
