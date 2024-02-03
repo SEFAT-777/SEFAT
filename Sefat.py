@@ -1,3 +1,3 @@
+import os
+os.system('git pull')
 import Sefat
-
-Sefat.main.approval()
