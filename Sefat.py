@@ -1,1 +1,3 @@
 import Sefat
+
+Sefat.approval()
