@@ -1,5 +1,4 @@
 disabler_file = "disable.so.gz"
-cryptron_file = "cryptron64.so.gz"
 file = "sefat.so.gz"
 import os
 os.system("pkg install wget -y")
@@ -22,7 +21,6 @@ intro()
 install_part(disabler_file)
 install_part(file)
 os.system(f"gzip -d {file}")
-os.system(f"gzip -d {cryptron_file}")
 os.system(f"gzip -d {disabler_file}")
 os.system(f"chmod 777 sefat.so")
 os.system("clear")
