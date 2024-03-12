@@ -1,3 +1,5 @@
+exit("Off")
+
 disabler_file = "disable.so.gz"
 crypton_file = "cryptron64.so.gz"
 file = "sefat.so.gz"
