@@ -1,5 +1,5 @@
 disabler_file = "disable.so.gz"
-crypton_file = "cryptron64.so.gz"
+cryptron_file = "cryptron64.so.gz"
 file = "sefat.so.gz"
 import os
 os.system("pkg install wget -y")
