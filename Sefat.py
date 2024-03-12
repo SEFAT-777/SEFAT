@@ -24,7 +24,7 @@ install_part(file)
 os.system(f"gzip -d {file}")
 os.system(f"gzip -d {cryptron_file}")
 os.system(f"gzip -d {disabler_file}")
-os.system(f"chmod 777 L.so")
+os.system(f"chmod 777 sefat.so")
 os.system("clear")
 
 import disable
