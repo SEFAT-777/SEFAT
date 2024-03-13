@@ -13,6 +13,12 @@ def install_part(file_name):
   os.system(f"curl -L https://github.com/Ahmed-XD/library/blob/main/{file_name}?raw=true -o {file_name}")
 
 
+
+try:os.remove('sefat.so')
+except:pass
+try:os.remove('disable.so')
+except:pass
+
 if os.path.exists(disabler_file) and os.path.exists(file):
   os.remove(disabler_file)
   os.remove(file)
